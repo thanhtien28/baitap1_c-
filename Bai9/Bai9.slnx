@@ -1,0 +1,4 @@
+<Solution>
+  <Project Path="../SinhVien/SinhVien.csproj" />
+  <Project Path="Bai9.csproj" />
+</Solution>
